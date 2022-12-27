@@ -4,7 +4,7 @@
 
 
 #### 运行效果
-![](https://github.com/Yalantis/uCrop/raw/master/preview.gif)
+![](https://img2023.cnblogs.com/blog/1162622/202212/1162622-20221227141934694-232030883.png)
 
 
 
